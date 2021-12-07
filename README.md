@@ -26,3 +26,7 @@ Unfortunately, we do not have any logo. For now, you can use this quotation to l
 > This software is licensed under [the Superlicense](https://tyler887.github.io/Superlicense/licensetext.txt). All rights reserved. ©️ (YYYY) (name of copyright holder).
 
 You may also download and freely use [the All Rights Reserved badge](https://ebooksuccess4free.files.wordpress.com/2016/12/2000px-license_icon-copyright-88x31-svg.png) linking to the license text.
+### What is "Piracy"?
+Piracy means violations of the "All Rights Reserved" laws. Piracy can only apply on software that is All Rights Reserved.
+
+Piracy is a serious crime, so it is recommended by law that you program a piracy warning that appears on stolen versions of the content. The Superlicense bans removing this if supplied on the original version.
