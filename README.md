@@ -21,3 +21,6 @@ Yes, as long as the work also has the CC BY-NC-SA 4.0 or newer. Note that this l
 All rights revered is "Trademark" for short. It bans usage except with permission.
 ### Are "trademarks" banned from copying in some countries?
 Yes. To avoid this, the Superlicense was created as the worldwide "all rights reversed".
+### Can I mark my software using Superlicense logos?
+Unfortunately, we do not have any logo. For now, you can use this quotation to let users know:
+> This software is licensed under [the Superlicense](https://tyler887.github.io/Superlicense/licensetext.txt). All rights reserved. ©️ (YYYY) (name of copyright holder).
