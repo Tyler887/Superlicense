@@ -3,12 +3,13 @@ The Superlicense is a non-free software license, when you just do not want clone
 
 The license code is as follows:
 
-`(CopyrightOwner) ©️ (YYYY) is considered to be the writer of this code all under the Superlicense.
+> (CopyrightOwner) ©️ (YYYY) is considered to be the writer of this code all under the Superlicense.
+>
+> All rights reversed. No part of this software may be forked, transmitted, or copied, by photography,
+> with code websites such as GitHub, or by a machine, except with written permission.
+>
+> Please refer to tyler887.github.io/Superlicense for more information.
 
-All rights reversed. No part of this software may be forked, transmitted, or copied, by photography,
-with code websites such as GitHub, or by a machine, except with written permission.
-
-Please refer to tyler887.github.io/Superlicense for more information.`
 ## FAQ
 ### Will the Superlicense be removed from my work?
 Yes. When you are around 70 years, your Superlicense works will no longer be trademarked and will enter the public domain, allowing anyone to steal your content freely, all without asking permission.
