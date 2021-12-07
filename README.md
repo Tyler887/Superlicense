@@ -24,3 +24,5 @@ Yes. To avoid this, the Superlicense was created as the worldwide "all rights re
 ### Can I mark my software using Superlicense logos?
 Unfortunately, we do not have any logo. For now, you can use this quotation to let users know:
 > This software is licensed under [the Superlicense](https://tyler887.github.io/Superlicense/licensetext.txt). All rights reserved. ©️ (YYYY) (name of copyright holder).
+
+You may also download and freely use [the All Rights Reserved badge](https://ebooksuccess4free.files.wordpress.com/2016/12/2000px-license_icon-copyright-88x31-svg.png) linking to the license text.
