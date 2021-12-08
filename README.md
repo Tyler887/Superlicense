@@ -29,4 +29,6 @@ You may also download and freely use [the All Rights Reserved badge](https://ebo
 ### What is "Piracy"?
 Piracy means violations of the "All Rights Reserved" laws. Piracy can only apply on software that is All Rights Reserved.
 
-Piracy is a serious crime, so it is recommended by law that you program a piracy warning that appears on stolen versions of the content. The Superlicense bans removing this if supplied on the original version.
+Piracy is a serious crime, so it is recommended by law that you program a piracy warning that appears on stolen versions of the content. The Superlicense bans removing this if supplied on the original version. We reccomend the following warning for pirates:
+
+![Piracy warning](https://github.com/Tyler887/Superlicense/blob/main/piracy_is_a_crime.png)
