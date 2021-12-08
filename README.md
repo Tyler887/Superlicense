@@ -31,4 +31,4 @@ Piracy means violations of the "All Rights Reserved" laws. Piracy can only apply
 
 Piracy is a serious crime, so it is recommended by law that you program a piracy warning that appears on stolen versions of the content. The Superlicense bans removing this if supplied on the original version. We reccomend the following warning for pirates:
 
-![Piracy warning](https://github.com/Tyler887/Superlicense/blob/main/piracy_is_a_crime.png)
+![Piracy warning](https://github.com/Tyler887/Superlicense/blob/main/piracy_is_a_crime.png?raw=true)
